@@ -1,5 +1,5 @@
 # Projeto: Metaverso Avançado - Sala de Treinamento Interativa
-**Aluno:** João Paulo do Nascimento
+## Aluno: João Paulo do Nascimento
 ## Curso de Web 3.0 - Residência em TIC
 
 ### 📋 Conceito do Projeto
